@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/products_menu"
+        android:title="Products"
+        >
+    </item>
+    <item
+        android:id="@+id/services_menu"
+        android:title="Services"
+        >
+    </item>
+    <item
+        android:id="@+id/branch_offices_menu"
+        android:title="Branch offices"
+        >
+    </item>
+
+</menu>
